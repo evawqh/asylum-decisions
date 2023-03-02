@@ -1,0 +1,8 @@
+# ignore csv's and xlsx's
+*.csv
+*.xlsx
+
+.DS_Store
+
+data/
+ai2html-output/
